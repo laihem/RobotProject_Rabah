@@ -20,4 +20,10 @@ MySecondTest
     Set Tags       regression1
     Remove Tags    regression1 
 MyThirdTest
-    Log     inside third test      
+    Log     inside third test
+    
+MyFourthTest
+    Log     inside fourth test     
+
+    
+      
